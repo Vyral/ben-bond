@@ -35,7 +35,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.freehomevaluesreports.com/
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.benbondrealestate.com/listings-search/#/-366121697
+  second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -49,7 +49,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Kansas City Home?"
     CTA_text2: "Search the entire MLS for your Kansas City home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.benbondrealestate.com/listings-search/#/-366121697
+    CTA_url2: /homesearch/
 
 lender:
   show_section: false
